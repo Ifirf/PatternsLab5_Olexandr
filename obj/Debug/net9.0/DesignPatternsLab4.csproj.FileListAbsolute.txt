@@ -1,0 +1,15 @@
+C:\Users\trnpl\DesignPatternsLab4\bin\Debug\net9.0\DesignPatternsLab4.exe
+C:\Users\trnpl\DesignPatternsLab4\bin\Debug\net9.0\DesignPatternsLab4.deps.json
+C:\Users\trnpl\DesignPatternsLab4\bin\Debug\net9.0\DesignPatternsLab4.runtimeconfig.json
+C:\Users\trnpl\DesignPatternsLab4\bin\Debug\net9.0\DesignPatternsLab4.dll
+C:\Users\trnpl\DesignPatternsLab4\bin\Debug\net9.0\DesignPatternsLab4.pdb
+C:\Users\trnpl\DesignPatternsLab4\obj\Debug\net9.0\DesignPatternsLab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trnpl\DesignPatternsLab4\obj\Debug\net9.0\DesignPatternsLab4.AssemblyInfoInputs.cache
+C:\Users\trnpl\DesignPatternsLab4\obj\Debug\net9.0\DesignPatternsLab4.AssemblyInfo.cs
+C:\Users\trnpl\DesignPatternsLab4\obj\Debug\net9.0\DesignPatternsLab4.csproj.CoreCompileInputs.cache
+C:\Users\trnpl\DesignPatternsLab4\obj\Debug\net9.0\DesignPatternsLab4.sourcelink.json
+C:\Users\trnpl\DesignPatternsLab4\obj\Debug\net9.0\DesignPatternsLab4.dll
+C:\Users\trnpl\DesignPatternsLab4\obj\Debug\net9.0\refint\DesignPatternsLab4.dll
+C:\Users\trnpl\DesignPatternsLab4\obj\Debug\net9.0\DesignPatternsLab4.pdb
+C:\Users\trnpl\DesignPatternsLab4\obj\Debug\net9.0\DesignPatternsLab4.genruntimeconfig.cache
+C:\Users\trnpl\DesignPatternsLab4\obj\Debug\net9.0\ref\DesignPatternsLab4.dll
